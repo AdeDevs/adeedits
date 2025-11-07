@@ -84,7 +84,7 @@ export default function HomePage() {
                         <h1>still collection</h1>
                         <div>
                             <p>
-                                Photos are metaphors, making the abstract concrete and mystifying the mundane. Be clear, be confident, and don’t overthink it. The beauty of your story is that it’s going to continue to evolve and your site can evolve with it. Your goal should be to make it feel right for right now. Later will take care of itself.
+                            This set blends street moments, quiet nature shots, and the kind of architecture that stops you for a second. It’s less about freezing time and more about noticing the small stories happening around you. I try to shoot with clarity and instinct, without overthinking the scene. My style will shift as I grow, and this collection will shift with it. For now, it’s simply what feels right.
                             </p>
                             <p><NavLink href="/gallery">View full gallery</NavLink></p>
                         </div>

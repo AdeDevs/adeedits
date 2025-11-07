@@ -46,11 +46,11 @@
 
 .about .about-bg {
     min-height: 80vh;
-    height: 60vw;
+    height: 55vw;
     width: 55%;
     background-color: #292929;
     background-image: url(../assets/yemi.jpg);
-    background-position: center;
+    background-position: center top;
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -432,7 +432,6 @@
     }
     .still-1 {
         grid-column: 1/11;
-        border: 1px solid red;
         min-height: auto;
         height: fit-content;
     }
