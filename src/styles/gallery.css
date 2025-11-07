@@ -49,19 +49,22 @@
 }
 
 .winter-1 {
-    background-image: url(../assets/market.jpg);
+    background-image: url(../assets/market.webp);
+    background-color: #292929;
     height: 60vw;
     grid-column: 2/7;
 }
 .winter-2 {
     background-image: url(../assets/road.jpg);
+    background-color: #292929;
     height: 20vw;
     grid-row: 1;
     grid-column: 1/2;
     width: 90%;
 }
 .winter-3 {
-    background-image: url(../assets/ola.jpg);
+    background-image: url(../assets/ola.webp);
+    background-color: #292929;
     height: 59vw;
     grid-row: 3;
     grid-column: 2/5;
@@ -86,6 +89,7 @@
 .still-gallery .still-2 {
     height: 30vw;
     background-image: url(../assets/roofs.jpg);
+    background-color: #292929;
     grid-column: 2/9;
 }
 
